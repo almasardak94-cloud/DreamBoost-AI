@@ -1,0 +1,8 @@
+{
+  "name": "DreamBoost AI",
+  "description": "A comprehensive multi-modal AI platform for generating images, videos, audio, code, and text with advanced reasoning and search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
